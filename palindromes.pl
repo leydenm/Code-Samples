@@ -1,3 +1,6 @@
+#Palindrome Search
+#This Program searches a text file for every possible palindrome.
+#Written by Mike Leyden
 #!/usr/bin/perl
 
 use strict;
