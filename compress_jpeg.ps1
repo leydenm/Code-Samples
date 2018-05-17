@@ -1,3 +1,5 @@
+#This creates dialog to to feed to MozJpeg
+#written by Mike Leyden
 Function Get-FileName($initialDirectory)
 {
     [System.Reflection.Assembly]::LoadWithPartialName("System.windows.forms") | Out-Null
